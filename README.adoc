@@ -11,20 +11,6 @@
 
 Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 18.04 host in QEMU 2.11 and <<test-hardware,real hardware>>. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup
 
-:logo: logo.jpg
-link:{logo}[image:{logo}[]]
-
-toc::[]
-
-== China
-
-Before <<getting-started>>, read this important pre-requisite: https://github.com/cirosantilli/china-dictatorship
-
-Because human rights is more important than profit and technology.
-
-image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Hao_Haidong_kick.jpg[width=600]
-
-image::https://raw.githubusercontent.com/cirosantilli/china-dictatorship-media/master/Xi_sadomasochist.jpg[width=600]
 
 == Getting started
 
